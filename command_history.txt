@@ -1,0 +1,67 @@
+    1  git config --global user.name 'Divyanarayana0511'
+    2  git config --global user.name Divyanarayana0511
+    3  git config --global user.email narayana.divya@gmail.com
+    4  git config --global --list
+    5  git config --global core.autocrlf true
+    6  git config --global --list
+    7  pwd
+    8  ls
+    9  cd desktop/
+   10  ls
+   11   cd..
+   12  cd../
+   13  cd..
+   14  ls
+   15  cd
+   16  ls
+   17  cd c
+   18  cd desktop
+   19  mkdir datascience
+   20  cd datascience
+   21  git clone https://github.com/Divyanarayana0511/git_class.git
+   22  mkdir python
+   23  mkdir stats
+   24  cd python
+   25  vim f1.py
+   26  cat f1.py
+   27  vim f1.py
+   28  cat f1.py
+   29  ls
+   30  cd..
+   31  cd
+   32  ls -al
+   33  cd git_class
+   34  cd python
+   35  ls -al
+   36  cd desktop
+   37  cd datascience
+   38  cd python
+   39  ls -al
+   40  git status
+   41  cd git_class
+   42  cd
+   43  cd desktop
+   44  cd datascience
+   45  cd git_class
+   46  git status
+   47  pwd 
+   48  ls
+   49  cd 'ongoing classes'
+   50  cd test_app
+   51  cd..
+   52  cd ..
+   53  cd test_app
+   54  mkdir f1
+   55  mkdir f2 f3 f4
+   56  rmdir f2
+   57  rmdir f3 f4
+   58  ls
+   59  rm -r f1
+   60  touch f1.py f2.sql f3.txt
+   61  cat f3.txt
+   62  nano f1.py
+   63  cat f1.py
+   64  nano f1.py
+   65  cat f1.py
+   66  history
+   67  history >> command_history.txt
